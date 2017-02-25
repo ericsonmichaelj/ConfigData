@@ -2,7 +2,7 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://eureka-primary:8011/eureka/
+      defaultZone: http://localhost:8011/eureka/
 ---
 spring:
   profiles: subject
