@@ -6,4 +6,4 @@ eureka:
 ---
 spring:
   profiles: lab-4-subject
-    words: I,You,He,She,It
+words: I,You,He,She,It
