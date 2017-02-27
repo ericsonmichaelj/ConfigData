@@ -1,5 +1,5 @@
 wordConfig:
-  luckyWord: Irish
+  luckyWord: Rabbit’s Foot
   preamble: The lucky word is
 server:
   port: 8002
