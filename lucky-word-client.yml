@@ -1,3 +1,5 @@
 wordConfig:
   luckyWord: Irish
   preamble: The lucky word is
+server:
+  port: 8002
