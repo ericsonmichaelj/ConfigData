@@ -32,3 +32,8 @@ spring:
   profiles: sentence
 server:
   port: 8020
+---
+spring:
+  profiles: gateway
+server:
+  port: 8080
