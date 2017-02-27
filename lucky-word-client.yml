@@ -1,5 +1,5 @@
 wordConfig:
-  luckyWord: Rabbit's Foot
+  luckyWord: Money
   preamble: The lucky word is
 server:
   port: 8002
